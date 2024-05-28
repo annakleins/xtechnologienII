@@ -1,2 +1,2 @@
 # xtechnologienII
-Übungsrepository
+Übungsrepository für X-Technologien II
